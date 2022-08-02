@@ -1,0 +1,168 @@
+body{
+    margin: 0px;
+    background-color:rgb(188, 233, 238);
+}
+.dform{
+
+    width: 400px;
+    height:400px;
+    background-color: rgb(135, 210, 245);
+    margin: 50px auto;
+    background-image: url('bg.jpg');
+    text-align: center;
+    color:rgb(255, 255, 255);
+   
+
+}
+.firsth3{
+    color: rgb(6, 57, 198);
+}
+.imgfirst{
+    width: 100px;
+    height: 100px;
+    margin: 5px auto;
+    color: white;
+}
+input[type=email],input[type=submit],input[type=pass],input[type=submit]{
+height: 18px;
+width: 280px;
+padding: 5px;
+margin: 10px;
+}
+input:hover{
+    background-color:rgb(146, 236, 28);
+    color: white;
+}
+form{
+    text-align: center;
+}
+input[type=submit]{
+    height: 20px;
+    background-color: darkblue;
+    color: white;
+    height: 35px;
+    font-size: larger;
+}
+h3{
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color:white;
+
+}
+a:hover{
+    text-shadow: darkgoldenrod;
+    color: white;
+}
+label:hover{
+    color: darkorange;
+}
+
+.md2{
+    background-color: rgb(5, 32, 122);
+    border-radius:50px;
+    color: white;
+    height: 80px;
+    width: 280px;
+    float: right;
+    margin:0px 10px;
+    text-align: center;
+    box-shadow: 10px 10px 10px 5px;
+}
+.md2:hover{
+    background-color:rgb(5, 32, 122);
+    color:black;
+    font-size: 20px;
+
+}
+
+.md3{
+    background-color: rgb(21, 15, 15);
+    border-radius:50px;
+    color: white;
+    height: 80px;
+    width: 280px;
+    float: right;
+    margin:0px 10px;
+    text-align: center;
+    box-shadow: 10px 10px 10px gray 5px;
+}
+.md3:hover{
+    background-color:rgb(21, 15, 15);
+    color:white;
+    font-size: 20px;
+
+}
+
+.md4{
+    background-color: rgb(8, 150, 51);
+    border-radius:50px;
+    color: white;
+    height: 80px;
+    width: 280px;
+    float:right;
+    margin:0px 10px;
+    text-align: center;
+    box-shadow: 10px 3px 20px  3px gray;
+}
+.md4:hover{
+    background-color:rgb(8, 150, 51);
+    color:white;
+    font-size: 20px;
+
+}
+
+.md5{
+    background-color:rgb(204, 14, 33);
+    border-radius:50px;
+    color: white;
+    height: 80px;
+    width: 280px;
+    float: right;
+    margin:10px 10px;
+    text-align: center;
+    box-shadow: 10px 10px 10px 5px;
+    
+}
+.md5:hover{
+    background-color:red;
+    color:black;
+    font-size: 20px;
+
+}
+marquee{
+    background-color: rgb(248, 239, 215);
+    direction: right;
+}
+ .imgmain{
+    height: 80px;
+   position: absolute;
+   right:250px;
+   top: 1px;
+    height: 120px;
+    width: 100px;
+    background-color: white;
+}
+.dm7{
+    background-color:rgb(5, 32, 122);
+    height: 120px;
+    color: white;
+    margin: 0px;
+   
+
+}
+h4{
+    float: left;
+    margin-left: 400px;
+}
+
+/* this is dataase page design*/
+body{
+    background-color: rgb(155, 240, 241);
+}
+
+.h5{
+ text-align: center;
+}
+

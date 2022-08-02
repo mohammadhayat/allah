@@ -1,0 +1,152 @@
+/* this is dataase page design*/
+body{
+    background-color: rgb(155, 240, 241);
+    margin: 0px;
+}
+
+.h1{
+ margin-left:200px;
+ margin-top: 0px;
+}
+.h2{
+    text-align:center;
+    margin-top: 2px;
+}
+
+.dd1{
+    background-color:rgb(5, 32, 122);
+    height: 120px;
+    width:100%;
+    color: white;
+    text-align: center;
+    position: absolute;
+    top: 0px;
+   
+
+}
+.df{
+    border:10 groovwe rgb(182, 175, 175);
+    width: 700px;
+    height: 300px;
+    position:absolute;
+    top: 200px;
+    right: 200px;
+    text-align: right;
+    background-color: white;
+   
+}
+.img1{
+    background-color:white;
+    height:120px;
+    width: 100px;
+    position:absolute;
+    right:250px;
+    top:3px;
+}
+.f3{
+    height: 270px;
+    width: 100%;
+    border: 2px solid gainsboro;
+    padding:10px;
+    background-color: white;
+    padding-top:20px;
+    
+   
+}
+H3{
+    border:1px solid white;
+    border-top-left-radius:10px;
+    border-top-right-radius:10px;
+    height: 40px;
+    width: 713px;
+    background-color: rgb(182, 175, 175);
+    position: absolute;
+    top: -60px;
+    right: -3px;
+    left: 0px;
+    padding-right:  10px;
+    padding-top:10px;
+}
+select{
+    width:690px;
+    height:35px;
+    border:1px solid #f1f1f1;;
+    border-radius:5px;
+    background-color:#f1f1f1;
+    text-align: right;
+    padding: 3px
+    
+    
+}
+
+select:hover{
+    color:orange;
+    background-color:black;
+    font-size: larger;
+}
+input[type=text],[type=number],[type=date]{
+    width:682px;
+    height:29px;
+    border:1px solid #f1f1f1;;
+    border-radius:5px;
+    background-color:#f1f1f1;
+    text-align: right;
+    padding: 3px
+}
+input:hover{
+    color:orange;
+    background-color:black;
+    font-size:small;
+}
+.df1{
+    border:10 groovwe rgb(182, 175, 175);
+    width: 700px;
+    height: 300px;
+    position:absolute;
+    top: 550px;
+    right: 200px;
+    text-align: right;
+    background-color: white;
+   
+}
+
+.f31{
+    height: 720px;
+    width: 100%;
+    border: 2px solid gainsboro;
+    padding:10px;
+    background-color: white;
+    padding-top:20px;
+    
+   
+}
+H31{
+    border:1px solid white;
+    border-top-left-radius:10px;
+    border-top-right-radius:10px;
+    height: 40px;
+    width: 713px;
+    background-color: rgb(182, 175, 175);
+    position: absolute;
+    top: -60px;
+    right: -3px;
+    left: 0px;
+    padding-right:  10px;
+    padding-top:10px;
+}
+select{
+    width:690px;
+    height:35px;
+    border:1px solid #f1f1f1;;
+    border-radius:5px;
+    background-color:#f1f1f1;
+    text-align: right;
+    padding: 3px
+    
+    
+}
+input[type=radio]{
+    text-align: center;
+}
+
+
